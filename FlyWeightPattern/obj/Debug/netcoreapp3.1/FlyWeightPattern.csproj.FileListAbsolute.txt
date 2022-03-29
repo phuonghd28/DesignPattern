@@ -1,0 +1,15 @@
+C:\Users\phuon\source\repos\AbstractFactory\FlyWeightPattern\bin\Debug\netcoreapp3.1\FlyWeightPattern.exe
+C:\Users\phuon\source\repos\AbstractFactory\FlyWeightPattern\bin\Debug\netcoreapp3.1\FlyWeightPattern.deps.json
+C:\Users\phuon\source\repos\AbstractFactory\FlyWeightPattern\bin\Debug\netcoreapp3.1\FlyWeightPattern.runtimeconfig.json
+C:\Users\phuon\source\repos\AbstractFactory\FlyWeightPattern\bin\Debug\netcoreapp3.1\FlyWeightPattern.runtimeconfig.dev.json
+C:\Users\phuon\source\repos\AbstractFactory\FlyWeightPattern\bin\Debug\netcoreapp3.1\FlyWeightPattern.dll
+C:\Users\phuon\source\repos\AbstractFactory\FlyWeightPattern\bin\Debug\netcoreapp3.1\FlyWeightPattern.pdb
+C:\Users\phuon\source\repos\AbstractFactory\FlyWeightPattern\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\phuon\source\repos\AbstractFactory\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phuon\source\repos\AbstractFactory\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.AssemblyInfoInputs.cache
+C:\Users\phuon\source\repos\AbstractFactory\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.AssemblyInfo.cs
+C:\Users\phuon\source\repos\AbstractFactory\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.csproj.CoreCompileInputs.cache
+C:\Users\phuon\source\repos\AbstractFactory\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.csproj.CopyComplete
+C:\Users\phuon\source\repos\AbstractFactory\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.dll
+C:\Users\phuon\source\repos\AbstractFactory\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.pdb
+C:\Users\phuon\source\repos\AbstractFactory\FlyWeightPattern\obj\Debug\netcoreapp3.1\FlyWeightPattern.genruntimeconfig.cache
